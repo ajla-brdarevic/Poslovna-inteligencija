@@ -1,4 +1,4 @@
-## Zadaća 1
+## [Zadaća 1](https://github.com/ajla-brdarevic/Poslovna-inteligencija/blob/main/1.%20zada%C4%87a%20iz%20Poslovne%20inteligencije.pdf)
 1. Napisati pet poslovnih zahtjeva u vidu pitanja koje je potrebno odgovoriti.
 2. Za svako pitanje napisati kratko obrazloženje šta se može saznati iz navedenog pitanja i na koji način takve informacije mogu uticati na donošenje neke odluke.
 3. Navesti koje tabele su potrebne za zadane informacije i za svako pitanje navesti koje tabele je potrebno povezati i kako se povežu da bi se dobile tražene informacije.
