@@ -4,14 +4,14 @@
 3. Navesti koje tabele su potrebne za zadane informacije i za svako pitanje navesti koje tabele je potrebno povezati i kako se povežu da bi se dobile tražene informacije.
 4. Dizajnirati erd šemu za zvjezda šemu koja može odgovoriti na tražena pitanja.
 
-## Zadaća 2
+## [Zadaća 2](https://github.com/ajla-brdarevic/Poslovna-inteligencija/blob/main/2.%20zadaća%20iz%20Poslovne%20inteligencije.pdf)
 1. Koristeći generatedata.com generisati tabelu sa podacima prema datim postavkama.
 2. Učitati tabelu u proizvoljnu bazu podataka.
 3. Napraviti izmjene tabele koristeći skriptu Vjezba2Izmjene.sql (u slučaju druge baze koja nije SqlServer napraviti analogne izmjene).
 4. Koristeći datum iz tabele kreirati vremensku dimenziju i njene hijerarhije.
 5. Kreirati posebnu tabelu koja predstavlja olap kocku nad datom tabelom sa sve tri dimenzije i svim hijerarhijama za mjeru M1,M2 i MPostotak i Count.
 
-## Zadaća 3
+## [Zadaća 3](https://github.com/ajla-brdarevic/Poslovna-inteligencija/blob/main/3.%20zadaća%20iz%20Poslovne%20inteligencije.pdf)
 Nad bazom AdventureWorks(AW) ili nad bazom sa šemom sales history (SH) postavljenoj u Oracle live izvršiti sljedeće smislene analize. Za svaki upit napisati kratko obrazloženje, SQL kod upita i priložiti sliku rezultata upita.
 1. Slice nad tabelom FactInternetSales(AW) ili Sales(SH)
 2. Dice nad tabelom FactFinance(AW) ili Profits(SH)
@@ -20,7 +20,7 @@ Nad bazom AdventureWorks(AW) ili nad bazom sa šemom sales history (SH) postavlj
 5. GROUP SET nad tabelom FactResellerSales(AW) ili Costs(SH)
 6. PIVOT nad tabelom FactFinance(AW) po godinama ili Sales(SH) po godinama
 
-## Zadaća 4
+## [Zadaća 4](https://github.com/ajla-brdarevic/Poslovna-inteligencija/blob/main/4.%20zadaća%20iz%20Poslovne%20inteligencije.pdf)
 Nad kockom AdventureWorks obaviti MDX analize. Za svaki upit napisati kratko obrazloženje, MDX kod upita i priložiti sliku rezultata upita. Nije dozvoljeno kopirati identičan upit sa prezentacije i ponuditi ga u takvoj formi kao jedan od upita.
 1. SLICE nad mjerom [Resseler Gross Profit] prikazanu po dvije proizvoljne dimenzije i proizvoljnom trećom dimenzijom za slice bez null vrijednosti.
 2. Dice nad proizvoljnom mjerom i proizvoljnom dimenzijom za godine 2011, 2012 i 2013.
@@ -31,7 +31,7 @@ Nad kockom AdventureWorks obaviti MDX analize. Za svaki upit napisati kratko obr
 7. DRILL-Down analiza sa proizvoljnom mjerom i dimenzijom koja nije vremenska dimenzija.
 8. Podupit sa TOP analizom nad mjerom [Reseller order quantity].
 
-## Zadaća 5
+## [Zadaća 5](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/5.%20zadaća%20iz%20Poslovne%20inteligencije)
 Nad sample podacima iz PowerBi napraviti sljedeće vizuelizacije. Sve vizuelizacije priložiti u jednom Power BI projektu i na mail poslati PDF izvještaj i PowerBI projekat. U izvještaju je potrebno uzeti screenshot svake od vizuelizacija i obrazložiti vizuelizaciju. Za vizuelizaciju pod tačkom 1 je potrebno priložiti sliku prije i poslije drill down operacije.
 1. Chart vizuelizaciju sa drill down mogućnošću, sa pie ili donut ili treemap vizuelizacijom sa 3 slicera.
 2. Chart vizuelizaciju koja na sebi ima i line.
@@ -39,17 +39,17 @@ Nad sample podacima iz PowerBi napraviti sljedeće vizuelizacije. Sve vizuelizac
 4. KPI vizuelizacija gdje je potrebno odrediti referentnu vrijednost.
 5. Importovati jednu proizvoljnu custom vizuelizaciju i primijeniti je nad podacima.
    
-## Zadaća 7
+## [Zadaća 7](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/7.%20zadaća%20iz%20Poslovne%20inteligencije)
 Data je šema relacione baze podataka. Potrebno je koristeći apache hop generisati sve tabele i njihove sadržaje kao jedan pipeline.
 Drugi pipeline treba da sve tabele i podatke prebaci u star šemu datu na sljedećoj slici. Zarada se računa po dužini trajanja gledanja filma puta cijena po minuti, a gubici kao cijena licence po gledanju filma. Zatim je potrebno napraviti workflow koji prvo pokreće pipeline za generisanje a zatim pipeline za transformacije. Koristiti varijable za workflow konfiguraciju da li se radi generisanje ili transformacija. Dva pipeline i workflow trebaju biti u sklopu jednog projekta.
 
-## Zadaća 8
+## [Zadaća 8](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/8.%20zadaća%20iz%20Poslovne%20inteligencije)
 Koristeći rapidminer primijeniti detekciju outlier na sample skupu podataka iz rapidminera koji nije wine dataset. U izvještaju je potrebno priložiti screenshot i obrazloženje za:
 1. Početni skup podataka.
 2. Tabelu sa detektovanih 10 outlier vrijednosti.
 3. Vizualizaciju outlier vrijednosti
    
-## Zadaća 9
+## [Zadaća 9](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/9.%20zadaća%20iz%20Poslovne%20inteligencije)
 Koristeći rapidminer nad skupom podataka iz predhodne vježbe proglasiti jednu kolonu za outlier vrijednosti kao null i obaviti čišćenje podataka. U izvještaju je potrebno priložiti screenshot i obrazloženje za:
 1. Početni skup podataka.
 2. Tabelu sa null vrijednostima
