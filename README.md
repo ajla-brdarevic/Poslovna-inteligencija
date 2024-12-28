@@ -55,3 +55,18 @@ Koristeći rapidminer nad skupom podataka iz predhodne vježbe proglasiti jednu 
 2. Tabelu sa null vrijednostima
 3. Pipeline i odabrani metod čišćenja (ne može ignore missing values)
 4. Tabelu sa zamijenjenim očišćenim vrijednostima
+
+## [Zadaća 10](https://github.com/ajla-brdarevic/Poslovna-inteligencija/blob/main/10.%20zadaća%20iz%20Poslovne%20inteligencije.pdf)
+Koristeći GoogleBigQuery nad jednim od sample skupom podataka obaviti 3 proizvoljna upita. Za svaki upit je potrebno:
+1. Objasniti koji su podaci i cilj upita
+2. Priložiti screenshot upita
+3. Priložiti screenshot rezultata
+4. Priložiti screenshot vizualizacije rezultata upita
+
+## [Zadaća 11](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/11.%20zadaća%20iz%20Poslovne%20inteligencije)
+Nad sample skupom podataka iz rapidminer koji nije potrošačka korpa ili iris dataset kreirati asocijativna pravila. U izvještaju je potrebno prikazati sliku i obrazložiti sliku za:
+1. Screenshot rapidminer projekta.
+2. Primjer skupa podataka
+3. Primjer kreiranih asocijativnih pravila.
+4. Vizuelizaciju asocijativnih pravila.
+5. Skup podataka sa podrškom i pouzdanošću
