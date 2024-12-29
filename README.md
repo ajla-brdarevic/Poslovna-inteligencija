@@ -70,3 +70,10 @@ Nad sample skupom podataka iz rapidminer koji nije potrošačka korpa ili iris d
 3. Primjer kreiranih asocijativnih pravila.
 4. Vizuelizaciju asocijativnih pravila.
 5. Skup podataka sa podrškom i pouzdanošću
+
+## [Zadaća 12](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/12.%20zadaća%20iz%20Poslovne%20inteligencije)
+Nad sample skupom podataka iz rapidminer koji nije golf ili iris dataset kreirati dva stabla odlučivanja i uporediti rezultate. U izvještaju je potrebno prikazati sliku i obrazložiti sliku za:
+1. Screenshot rapidminer projekta.
+2. Primjer skupa podataka
+3. Primjer oba kreirana stabla odlučivanja.
+4. Prikazane predikcije za isti dataset za jedno i drugo stablo.
