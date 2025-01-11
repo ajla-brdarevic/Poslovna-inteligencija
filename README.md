@@ -77,3 +77,10 @@ Nad sample skupom podataka iz rapidminer koji nije golf ili iris dataset kreirat
 2. Primjer skupa podataka
 3. Primjer oba kreirana stabla odlučivanja.
 4. Prikazane predikcije za isti dataset za jedno i drugo stablo.
+
+## [Zadaća 13](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/13.%20zadaća%20iz%20Poslovne%20inteligencije)
+Nad sample skupom podataka iz rapidminer koji nije polynomial dataset napraviti i primijeniti model linearne regresije. U izvještaju je potrebno prikazati sliku i obrazložiti sliku za:
+1. Screenshot rapidminer projekta.
+2. Primjer skupa podataka
+3. Rezultat modela linearne regresije
+4. Rezultat testnog skupa podataka
