@@ -84,3 +84,9 @@ Nad sample skupom podataka iz rapidminer koji nije polynomial dataset napraviti 
 2. Primjer skupa podataka
 3. Rezultat modela linearne regresije
 4. Rezultat testnog skupa podataka
+
+## [Zadaća 14](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/14.%20zadaća%20iz%20Poslovne%20inteligencije)
+Uraditi cross validaciju za jednu od predhodnih zadaća 11, 12, 13 za predikcijske modele.
+1. Screenshot rapidminer projekta.
+2. Screenshot rezultata cross validacije
+3. Obrazloženje rezultata
