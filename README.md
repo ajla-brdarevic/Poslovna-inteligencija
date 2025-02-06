@@ -90,3 +90,6 @@ Uraditi cross validaciju za jednu od predhodnih zadaća 11, 12, 13 za predikcijs
 1. Screenshot rapidminer projekta.
 2. Screenshot rezultata cross validacije
 3. Obrazloženje rezultata
+
+## [Zadaća 15](https://github.com/ajla-brdarevic/Poslovna-inteligencija/tree/main/15.%20zadaća%20iz%20Poslovne%20inteligencije)
+Za dataset iz vježbe napraviti primjer teksta koji će biti označen kao pozitivan i jedan primjer koji će biti označen kao negativan. Zatim izmijeniti podatke tako da za riječ “POZITIVA” daje predikciju da je pozitivan komentar a za riječ “NEGATIVA” da je negativan komentar.
